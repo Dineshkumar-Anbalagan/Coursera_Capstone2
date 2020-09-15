@@ -1,1 +1,1 @@
-# Coursera_Capstone2
+# Coursera Capstone: Car Accident Severity
