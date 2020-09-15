@@ -1,0 +1,14 @@
+Introduction:
+   One of the major problems we are facing right now is road accidents, especially car acidents. So, this project is mainly to analyse the UK's car
+accident severity based on the UK's previous car accident reports to find out the major reasons that lead to these accidents. Ok now let's get into 
+the content.
+DATASET:
+   The source which I am going to use here to analyse to find out the major reasons for car accidents is the datset provided by the Government of United Kingdom 
+which contains the entire car accident reports between 2005-2015 occured in UK(United Kingdom).
+These datasets contains:
+                         Location - The lat, long at which the accident occured.
+                         Casualities - No of casualities.
+                         Vehicle Type - The type of vehicle at which the acciednt occured.
+                         Casuality class, age, sex etcetra.
+                         Number of Vehicles - Total no. of vehicle involved in the accident. 
+                         
